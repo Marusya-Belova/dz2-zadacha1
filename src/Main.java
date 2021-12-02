@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int ticketprice = 13000;
-        int rubna1mile = 20;
-        int mile = ticketprice / rubna1mile;
+        int ticketPrice = 13000;
+        int rubNa1Mile = 20;
+        int mile = ticketPrice / rubNa1Mile;
         System.out.println(mile);
     }
 }
